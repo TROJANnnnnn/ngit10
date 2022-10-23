@@ -9,6 +9,6 @@ s = "malayalam"
 ans = isPalindrome(s)
 
 if ans:
-print("Yes")'''ERROR - incorrect identation'''
+	print("Yes")
 else:
 	print("No")
